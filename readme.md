@@ -55,7 +55,9 @@ npm install
 watch sass
 ```
 
-The application should now be running on your localhost. Open your web browser and navigate to `http://localhost:5000` to access the todo app.
+The application should now be running on your localhost. Open your web browser and navigate to `http://localhost:5000/api/v1/todo` to access the todo app.
+
+you also check out he only frontend part [here](https://todo-list-html-scss-js.netlify.app/)
 
 ## Technologies Used
 
