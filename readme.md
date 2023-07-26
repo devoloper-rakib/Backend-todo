@@ -79,7 +79,9 @@ Please ensure that your contributions align with the project's goals and adhere 
 
 ## License
 
-The MERN Todo Application is open-source and available under the [MIT License](LICENSE).
+<!-- The MERN Todo Application is open-source and available under the [MIT License](LICENSE). -->
+
+I am not using any license for this project. You can use it for your personal use. But you can't use it for commercial use.
 
 ## Contact
 
