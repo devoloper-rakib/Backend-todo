@@ -45,7 +45,7 @@ cd backend
 npm run dev
 ```
 
-4.also run the frontend
+4. Also need to run Saas for frontend
 
 ```bash
 cd frontend
