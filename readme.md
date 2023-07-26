@@ -1,6 +1,6 @@
 # MERN Todo Application
 
-![MERN Todo Application](https://ibb.co/5kcK1Kz)
+![MERN Todo Application](https://i.ibb.co/1M2z0zp/todo-application.png)
 
 The MERN Todo Application is a simple, yet powerful todo list web application that allows users to manage their daily tasks efficiently. This application is built using the MERN stack, which includes MongoDB, Express.js, Vanila js, and Node.js. It provides essential features such as adding, deleting, editing, and completing todos. Additionally, it includes some hidden features that make managing tasks even more convenient.
 
